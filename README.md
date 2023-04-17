@@ -1,7 +1,7 @@
 ###  GeumBi
 ---
 - :mag: I'm Interested in BackEnd Developer
-- 🌱 I’m currently learning ... `Spring` & `Node.js`   
+- 🌱 I’m currently learning ... `Spring` & `Java`   
  <br/> <br/>
 ### Skills :space_invader:
 ---
